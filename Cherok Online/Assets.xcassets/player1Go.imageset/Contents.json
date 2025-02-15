@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "player1Go.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

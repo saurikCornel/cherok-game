@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "player2Wait.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
